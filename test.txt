@@ -1,2 +1,7 @@
 my first git
+<<<<<<< HEAD
 create a new branch is quick &simple.
+=======
+create a new branch is quick AND simple.
+>>>>>>> featural
+creating a new branch is quick and simple
