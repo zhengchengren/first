@@ -1,1 +1,2 @@
 my first git
+create a new branch is quick
